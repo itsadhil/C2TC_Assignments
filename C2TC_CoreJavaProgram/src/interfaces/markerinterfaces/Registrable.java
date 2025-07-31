@@ -1,5 +1,5 @@
 //Program to demonstrate Marker Interface
-package interfaces.markerinterfaces;
+package com.tnsif.dayeight.interfaces.markerinterfaces;
 
 public interface Registrable {
 
